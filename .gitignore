@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.joblib
+*.pt
+*.onnx
+runs/
+data/raw/
+.DS_Store
+Thumbs.db
